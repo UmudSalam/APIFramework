@@ -17,13 +17,8 @@ import org.junit.runner.RunWith;
 )
 
 public class Runner {
-        public static void main(String[] args) {
 
-
-                // hih  oihioihoihio
-                //ihijijb
-                //hoonj
-        }
+        //control + L --> clear for terminal for intellij
 }
 //This is how to run on terminal/commandline: mvn test --> compile and run all
 //or specific tag:  mvn test -Dcucumber.options="--tags @AddPlace"
